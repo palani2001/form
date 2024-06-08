@@ -10,7 +10,8 @@ h1{
     color: aliceblue;
     display: flex;
     justify-content: center;
-    text-shadow: 5px -1px  20px  white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 3px -1px  15px  white;
  
 }
 
@@ -65,7 +66,7 @@ u{
 @media screen and (max-width:600px) {
 
     .beauti{
-        color: rgb(38, 3, 112);
+       color: rgb(255, 162, 0);
     }
     
 }
