@@ -60,3 +60,12 @@ img:hover{
 u{
     color: aliceblue;
 }
+
+
+@media screen and (max-width:500px) {
+
+    .beauti{
+        color: rgb(180, 191, 200);
+    }
+    
+}
